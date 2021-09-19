@@ -2,7 +2,7 @@ using System;
 
 namespace MichaelUtilities.Standalone
 {
-    class HelloWorld
+    public class HelloWorld
     {
         public void HelloWorldToConsole()
         {
