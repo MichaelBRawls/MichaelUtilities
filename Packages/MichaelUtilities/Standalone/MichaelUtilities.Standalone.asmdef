@@ -1,6 +1,6 @@
 {
     "name": "MichaelUtilities.Standalone",
-    "rootNamespace": "",
+    "rootNamespace": "MichaelUtilities",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

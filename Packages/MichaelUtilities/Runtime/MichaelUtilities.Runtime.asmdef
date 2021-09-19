@@ -1,6 +1,6 @@
 {
     "name": "MichaelUtilities.Runtime",
-    "rootNamespace": "",
+    "rootNamespace": "MichaelUtilities",
     "references": [
         "GUID:f6aa9351f0117114eb2c14c2a2cd3897"
     ],
