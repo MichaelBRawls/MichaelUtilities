@@ -1,12 +1,16 @@
 {
     "name": "MichaelUtilities.Runtime",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:f6aa9351f0117114eb2c14c2a2cd3897"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
